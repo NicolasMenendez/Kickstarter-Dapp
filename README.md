@@ -14,8 +14,8 @@ Funcionality of the app:
   6. View campaign information 
   
  For testing purposes:
-  . Mestamask plugin-in should be installed.
-  . Use Rinkeby ethereum Network.
+  1. Mestamask plugin-in should be installed.
+  2. Use Rinkeby ethereum Network.
   
   Deplòyed at Heroku:
   https://kickstarter-dapp1.herokuapp.com/
