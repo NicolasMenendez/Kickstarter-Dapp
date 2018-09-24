@@ -7,6 +7,7 @@ import {Link} from '../routes';
 class CampaignIndex extends Component {
   static async getInitialProps() {   // For initial data in side server next
     const campaigns = await factory.methods.getDeployedCampaigns().call();
+    console.log(campaigns);
     return { campaigns: campaigns};
   }
 
@@ -22,7 +23,7 @@ class CampaignIndex extends Component {
         fluid: true
       };
     });
-
+    
     return <Card.Group items={items} />;
   }
 
