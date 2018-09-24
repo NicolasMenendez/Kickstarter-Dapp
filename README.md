@@ -10,7 +10,7 @@ Funcionality of the app:
   2. Contribute (Contributors) 
   3. Create Request (Manager) 
   4. Approve Request (Contributors) 
-  5 . Finalize Request (Manager)
+  5. Finalize Request (Manager)
   6. View campaign information 
   
  For testing purposes:
